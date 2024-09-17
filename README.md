@@ -21,6 +21,6 @@
 </div>
 
 ### Stats
-[![eriksca's github stats](https://github-readme-stats.vercel.app/api?username=eriksca&theme=dark&show_icons=true&count_private=true)](https://github.com/eriksca)
+[![eriksca's github stats](https://github-readme-stats.vercel.app/api?username=eriksca&theme=dark&show_icons=true&count_private=false)](https://github.com/eriksca)
 
 
