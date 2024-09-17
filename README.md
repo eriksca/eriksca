@@ -9,7 +9,7 @@
 ### Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,cs,blender,git,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=unity,unreal,blender,git,cs,vscode,visualstudio" />
   </a>
 </p>
 
