@@ -1,16 +1,24 @@
-## Hi there 👋
+## Abbout me
+<div>
+<p style='text-align: justify;'>
+<p> I'm Erik and I'm an XR Developer based in Turin, Italy. </p>
+<p> On a daily basis, I work with Unity on XR Projects and on developing tools and solutions tailored to every need.</p>
+<p>My responsibilities include programming, developing, testing and writing technical documentation.</p>
+</div>
 
-<!--
-**eriksca/eriksca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,unreal,cs,blender,git,vscode,visualstudio" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## Social media
+<div align="center">
+<a href="https://it.linkedin.com/in/erik-scantamburlo">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
