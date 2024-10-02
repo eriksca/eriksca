@@ -20,10 +20,9 @@
 </a>
 </div>
 
-### Badges
-[![An image of @eriksca's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eriksca)](https://holopin.io/@eriksca)
-
 ### Stats
 [![eriksca's github stats](https://github-readme-stats.vercel.app/api?username=eriksca&theme=dark&show_icons=true&count_private=false)](https://github.com/eriksca)
 
+### Badges
+[![An image of @eriksca's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eriksca)](https://holopin.io/@eriksca)
 
